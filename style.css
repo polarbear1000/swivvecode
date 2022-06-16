@@ -120,7 +120,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color:  #FFE900;
+    color:  deepskyblue;
    
 }
 .navbar .menu li{
