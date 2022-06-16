@@ -116,7 +116,7 @@ section .title::after{
     opacity: 100%;
 }
 .navbar .logo a span{
-    color:deepskyblue;
+    color: #FFE900;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
