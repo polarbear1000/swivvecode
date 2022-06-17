@@ -181,7 +181,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("") no-repeat center;
+    background: url("World - 2.mp4") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
